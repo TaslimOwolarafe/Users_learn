@@ -14,8 +14,9 @@
   }
   
   body {
-      background-color: #ef8172 !important;
-      color: black!important;
+      background-color: #121212 !important;
+      color: #fefefe !important;
+      text-align: center;
   }
 
   li {
@@ -30,7 +31,8 @@ nav {
 }
 
 h1 {
-    margin: 10px 10%;
+    margin: 20px 10%;
+    
 }
 
 .btn {
